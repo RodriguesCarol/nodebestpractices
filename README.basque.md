@@ -14,7 +14,7 @@
 
 <br/>
 
-[![nodepractices](./assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Hemen ere bagaude!** [**@nodepractices**](https://twitter.com/nodepractices/)
+[![nodepractices](./assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Alterado pela Caroline Rodrigues!** [**@nodepractices**](https://twitter.com/nodepractices/)
 
 <br/>
 
